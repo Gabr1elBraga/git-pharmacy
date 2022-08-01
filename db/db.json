@@ -1,0 +1,99 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Droga raia"
+      },
+      {
+        "id": 2,
+        "tipo": "Panvel"
+      },
+      {
+        "id": 3,
+        "tipo": "Preço popular"
+      },
+      {
+        "id": 4,
+        "tipo": "Sao joao"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Tubarão"
+      },
+      {
+        "id": 2,
+        "tipo": "Capivari"
+      },
+      {
+        "id": 3,
+        "tipo": "Curitiba"
+      },
+      {
+        "id": 4,
+        "tipo": "Uberlândia"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Lisador"
+      },
+      {
+        "id": 2,
+        "tipo": "Dorflex"
+      },
+      {
+        "id": 3,
+        "tipo": "Anador"
+      },
+      {
+        "id": 4,
+        "tipo": "Plasil"
+      },
+      {
+        "id": 5,
+        "tipo": "Sorrisal"
+      },
+      {
+        "id": 6,
+        "tipo": "Decongex "
+      },
+      {
+        "id": 7,
+        "tipo": "Cimegrip"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "nome": "Tatiana",
+      "carne": "Tubarão",
+      "pao": "Panvel",
+      "opcionais": [
+        "Lisador",
+        "Dorflex",
+        "Plasil",
+        "Decongex "
+      ],
+      "status": "Solicitado",
+      "id": 1
+    }
+  ]
+}
