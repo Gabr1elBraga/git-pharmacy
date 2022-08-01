@@ -1,4 +1,4 @@
-# burguer-new
+# git-pharmacy
 
 ## Project setup
 ```
